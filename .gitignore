@@ -1,0 +1,17 @@
+*.jpg
+*.png
+*.pyc
+*.zip
+*.mp4
+*.mp3
+# Ignore virtual environment directories
+myenv/
+.myenv/
+env/
+.env/
+# Ignore large data files
+*.so
+*.bin
+*.log
+node_modules/
+.node_modules/

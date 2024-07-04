@@ -1,0 +1,116 @@
+Before finetuning miniFAS
+=========
+No LLIE
+=========
+tp: 254
+fp: 49
+fn: 37
+tn: 639
+Precision:  83.82838283828383
+Recall:  87.2852233676976
+F1-score:  85.52188552188551
+Accuracy:  91.21552604698671
+Accuracy RetinaFace:  93.41603053435115
+***********
+count none face:  69
+time:  79.34430432319641
+=========
+Zero-DCE++
+=========
+tp: 231
+fp: 91
+fn: 64
+tn: 596
+Precision:  71.73913043478261
+Recall:  78.30508474576271
+F1-score:  74.87844408427877
+Accuracy:  84.21588594704684
+Accuracy RetinaFace:  93.70229007633588
+***********
+count none face:  66
+time:  179.37852334976196
+=========
+SCI
+=========
+tp: 275
+fp: 110
+fn: 17
+tn: 584
+Precision:  71.42857142857143
+Recall:  94.17808219178082
+F1-score:  81.24076809453472
+Accuracy:  87.11967545638946
+Accuracy RetinaFace:  94.08396946564885
+***********
+count none face:  62
+time:  152.70358443260193
+=========
+UPDATED-SCI
+=========
+tp: 284
+fp: 92
+fn: 11
+tn: 612
+Precision: 75.53191489361703
+Recall: 96.27118644067797
+F1-Score:  84.64977645305514
+Accuracy: 89.68968968968969
+Accuracy Rentina: 95.32442748091603
+**************
+count none face:  49
+time:  202.74851059913635
+
+
+After finetuning miniFAS
+
+=========
+No LLIE
+=========
+tp: 117
+fp: 0
+fn: 174
+tn: 688
+Precision: 100.0
+Recall: 40.20618556701031
+F1-Score:  57.352941176470594
+Accuracy: 82.2267620020429
+Accuracy Rentina: 93.41603053435115
+**************
+count none face:  69
+time:  115.81845164299011
+
+
+=========
+UPDATED-SCI
+=========
+tp: 283
+fp: 1
+fn: 12
+tn: 703
+Precision: 99.64788732394366
+Recall: 95.9322033898305
+F1-Score:  97.75474956822107
+Accuracy: 98.69869869869869
+Accuracy Rentina: 95.32442748091603
+**************
+count none face:  49
+time:  167.35842752456665
+
+
+=======
+Whole module
+========
+tp: 283
+fp: 0
+fn: 12
+tn: 740
+Precision:  100.0
+Recall:  95.9322033898305
+F1-score:  97.92387543252595
+Accuracy:  98.84057971014492
+Accuracy Rentina: 98.75954198473282
+***********
+count low light:  851
+count none face:  13
+count undefined:  165
+time:  101.2784492969513

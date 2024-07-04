@@ -1,0 +1,1147 @@
+Memory loading: 
+RSS: 427.00 MB, VMS: 18516.00 MB
+ * Serving Flask app 'server'
+ * Debug mode: off
+Received message: enhance
+Time for 1 request:  0.1712779998779297
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: enhance
+Time for 1 request:  0.10408902168273926
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: enhance
+Time for 1 request:  0.11187005043029785
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: enhance
+Time for 1 request:  0.1171419620513916
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: enhance
+Time for 1 request:  0.1179354190826416
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: enhance
+Time for 1 request:  0.11252093315124512
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: enhance
+Time for 1 request:  0.11566472053527832
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: enhance
+Time for 1 request:  0.11509203910827637
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: enhance
+Time for 1 request:  0.11461639404296875
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: enhance
+Time for 1 request:  0.11478590965270996
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: enhance
+Time for 1 request:  0.11635279655456543
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: enhance
+Time for 1 request:  0.13126492500305176
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11891865730285645
+RSS: 433.82 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1136627197265625
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11406326293945312
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1162099838256836
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11191010475158691
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11398863792419434
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11276435852050781
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11581134796142578
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11676907539367676
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11916875839233398
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1133427619934082
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1124415397644043
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11776256561279297
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12282562255859375
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11763763427734375
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12156057357788086
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11864209175109863
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11348080635070801
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11060047149658203
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11290931701660156
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11027789115905762
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12133240699768066
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11336898803710938
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11523604393005371
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11683011054992676
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10562825202941895
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11250185966491699
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10977053642272949
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10843372344970703
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11319637298583984
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10969090461730957
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1163337230682373
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1260836124420166
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1203923225402832
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11750960350036621
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11348366737365723
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1087348461151123
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11433649063110352
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10991692543029785
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12068629264831543
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1129159927368164
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12097024917602539
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11466336250305176
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12305784225463867
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12088751792907715
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11280179023742676
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12178421020507812
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11487174034118652
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1149282455444336
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11143231391906738
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1160438060760498
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11204338073730469
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11227083206176758
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11006331443786621
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11177802085876465
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11264729499816895
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11455893516540527
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1123816967010498
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11834120750427246
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11880970001220703
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1114950180053711
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11061286926269531
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12175655364990234
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11069941520690918
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12651920318603516
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11108279228210449
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11345291137695312
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12429118156433105
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1157379150390625
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10947918891906738
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11488699913024902
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11473417282104492
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11503911018371582
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11671137809753418
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11301398277282715
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12604975700378418
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11185359954833984
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11757183074951172
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11582756042480469
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11769437789916992
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1288139820098877
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12236571311950684
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12258410453796387
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11856365203857422
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11026859283447266
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11597824096679688
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11365866661071777
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12166476249694824
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11416220664978027
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11606717109680176
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11092686653137207
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11657023429870605
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11431884765625
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11853885650634766
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1175994873046875
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1162109375
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12197232246398926
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.126678466796875
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11987709999084473
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11486220359802246
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11989927291870117
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1134040355682373
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11275076866149902
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11001944541931152
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1186683177947998
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1163938045501709
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11532855033874512
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12063026428222656
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11498332023620605
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11691617965698242
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11925244331359863
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12340450286865234
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11217308044433594
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11479759216308594
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12268304824829102
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11465859413146973
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11678457260131836
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11531519889831543
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11210274696350098
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12089371681213379
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11832761764526367
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12024998664855957
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11296963691711426
+RSS: 434.70 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11671304702758789
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11954140663146973
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11950063705444336
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11062002182006836
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12230324745178223
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11839890480041504
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12033319473266602
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11847305297851562
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11614727973937988
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11418318748474121
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11287379264831543
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12035083770751953
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11244821548461914
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1129310131072998
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11072945594787598
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12051224708557129
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11575150489807129
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11591291427612305
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11503148078918457
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11558723449707031
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12006306648254395
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11793780326843262
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10997366905212402
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11673378944396973
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11995720863342285
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11274290084838867
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11514973640441895
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11189937591552734
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12798380851745605
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1110677719116211
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11265778541564941
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1071176528930664
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11889410018920898
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12557172775268555
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11242890357971191
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10278749465942383
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12097311019897461
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11796951293945312
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11585044860839844
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11433887481689453
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12044906616210938
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11303210258483887
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11232495307922363
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11330485343933105
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11396551132202148
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11217188835144043
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1110844612121582
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11377978324890137
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12228631973266602
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11776089668273926
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11333227157592773
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11252593994140625
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10794591903686523
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1138007640838623
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10708069801330566
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11678695678710938
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11787724494934082
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10812091827392578
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11820101737976074
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11457157135009766
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12221479415893555
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10875606536865234
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11197090148925781
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11945295333862305
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11818075180053711
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10982561111450195
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11422944068908691
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11438155174255371
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11312127113342285
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1108403205871582
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12655878067016602
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11943268775939941
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11803722381591797
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11835384368896484
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12093973159790039
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11812925338745117
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1142263412475586
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11149764060974121
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11417174339294434
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1111457347869873
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11773467063903809
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11734485626220703
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12043881416320801
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11581182479858398
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11703181266784668
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12121772766113281
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1139669418334961
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12157964706420898
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10567522048950195
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10695266723632812
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1112813949584961
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12630200386047363
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12610149383544922
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11317849159240723
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1131899356842041
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1118917465209961
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11134791374206543
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11309337615966797
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11163091659545898
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11085963249206543
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11421632766723633
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11574053764343262
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11723089218139648
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11108756065368652
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1168828010559082
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11427044868469238
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11263132095336914
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11112618446350098
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11498880386352539
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11541557312011719
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11043930053710938
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10834670066833496
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10297012329101562
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11673140525817871
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12291312217712402
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10462188720703125
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11476278305053711
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11683797836303711
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11655926704406738
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11235570907592773
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.15371203422546387
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1178750991821289
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.13745546340942383
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.16892337799072266
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1436176300048828
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.17543649673461914
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.121826171875
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1317729949951172
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1302168369293213
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.14914417266845703
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.18637895584106445
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.17151689529418945
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.14747858047485352
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.14525389671325684
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1308128833770752
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.13539648056030273
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1401355266571045
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.17710518836975098
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.14655375480651855
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.13708114624023438
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.14463233947753906
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.15030622482299805
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10840320587158203
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1889019012451172
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1439647674560547
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1503007411956787
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1673564910888672
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.15698885917663574
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1781444549560547
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1517777442932129
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.14134693145751953
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10936927795410156
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11097002029418945
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11605286598205566
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12493681907653809
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10993099212646484
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1154322624206543
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10835909843444824
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11104345321655273
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12436723709106445
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11963796615600586
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11382770538330078
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1051030158996582
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10691356658935547
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11716866493225098
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1110992431640625
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12656950950622559
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11591672897338867
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11337804794311523
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1109166145324707
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11925172805786133
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11897659301757812
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11421990394592285
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.13321566581726074
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1202702522277832
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11437869071960449
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12861227989196777
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11540842056274414
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11733388900756836
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11117386817932129
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12397193908691406
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10921001434326172
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1155245304107666
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12511920928955078
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11771202087402344
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12108755111694336
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.14126348495483398
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1218874454498291
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11987638473510742
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1195838451385498
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1134188175201416
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11701607704162598
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11613154411315918
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1187744140625
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12067699432373047
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11773800849914551
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1162116527557373
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12297677993774414
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11042213439941406
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11422061920166016
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12372922897338867
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11778545379638672
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11672329902648926
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11391377449035645
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11280965805053711
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11729311943054199
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12750911712646484
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11027717590332031
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11996746063232422
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12847518920898438
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1186373233795166
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10890030860900879
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12417769432067871
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11940336227416992
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1267392635345459
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1083071231842041
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11296701431274414
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12080693244934082
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11353135108947754
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11688232421875
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12700510025024414
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11482381820678711
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1133120059967041
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1156320571899414
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11877727508544922
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12050104141235352
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11460494995117188
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11956787109375
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11164474487304688
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12037849426269531
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10972166061401367
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11479377746582031
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11271429061889648
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.10755348205566406
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11705613136291504
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12404608726501465
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11573338508605957
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11620664596557617
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11211848258972168
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11743330955505371
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11661100387573242
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11410379409790039
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11307144165039062
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.12011361122131348
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.11802363395690918
+RSS: 434.71 MB, VMS: 18236.96 MB
+Received message: no_enhance
+Time for 1 request:  0.1153714656829834
+RSS: 434.71 MB, VMS: 18236.96 MB

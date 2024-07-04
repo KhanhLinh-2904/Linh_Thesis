@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Face Anti-spoofing</title>
+    <style>
+        #video, #canvasOutput {
+            width: 640px;  /* Adjusted width */
+            height: 480px; /* Adjusted height */
+        }
+
+        #response,
+        #warning {
+            color: red;
+            font-size: 18px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Face Anti-spoofing</h1>
+    <button id="startBtn">Turn on camera</button>
+    <video id="video" playsinline autoplay muted></video>
+    <!-- <canvas id="canvasOutput"></canvas> -->
+    <div id="response"></div>
+    <div id="warning"></div>
+
+    <script src="open_cv.js"></script>
+    <script src="dist/main.js"></script>
+</body>
+
+</html>

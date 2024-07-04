@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  thesis-frontend:
+    build: .
+    volumes:
+      - ./:/usr/share/nginx/html
+    ports:
+      - "4646:80"  # Map host port 8888 to container port 8888
